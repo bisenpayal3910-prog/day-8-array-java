@@ -22,3 +22,4 @@ public class CountDuplicateElements {
 
         System.out.println("Duplicate Count = " + count);
     }
+}
